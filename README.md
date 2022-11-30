@@ -4,8 +4,8 @@
 
 <br id="topo">
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Cassio-pic" height="100" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1032349476133810238/1041808038841040966/Mario.png">
+<div style="display: flex"><br>
+  <img align="center" alt="Cassio-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1032349476133810238/1041808038841040966/Mario.png">
 </div>
 
 <p align="center">

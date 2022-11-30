@@ -5,7 +5,9 @@
 <br id="topo">
 
 
+<div align="center" style="display: inline-block"><br>
   <img align="center" alt="Cassio-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1032349476133810238/1041808038841040966/Mario.png">
+</div>
 
 
 <br>

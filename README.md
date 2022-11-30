@@ -5,8 +5,10 @@
 <br id="topo">
 
 <div style="display: flex"><br>
-  <img align="center" alt="Cassio-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1032349476133810238/1041808038841040966/Mario.png">
+  <img align-itens="center" alt="Cassio-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1032349476133810238/1041808038841040966/Mario.png">
 </div>
+
+<br><br>
 
 <p align="center">
     <a href="#sobre">About</a>  |     

@@ -1,7 +1,4 @@
 # Jump Mario, jump!
-
-### Criei um jogo básico utilizando o Mario como personagem principal!
-
 <br id="topo">
 
 
